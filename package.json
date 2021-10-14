@@ -1,0 +1,22 @@
+{
+  "name": "testing-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmptyBox12/testing-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmptyBox12/testing-exercises/issues"
+  },
+  "homepage": "https://github.com/EmptyBox12/testing-exercises#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
