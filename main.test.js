@@ -1,4 +1,4 @@
-const { capitalize, reverseString, calculator, ceaser, analyze } = require("./main");
+import { capitalize, reverseString, calculator, ceaser, analyze } from "./main";
 
 test("capitalize first letter", () => {
   expect(capitalize("merhaba")).toBe("Merhaba");

@@ -95,4 +95,4 @@ function analyze(array) {
   return {average,min,max,length};
 }
 
-module.exports = { capitalize, reverseString, calculator, ceaser, analyze };
+export { capitalize, reverseString, calculator, ceaser, analyze };

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EmptyBox12/testing-exercises#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
     "jest": "^27.2.5"
   }
 }
